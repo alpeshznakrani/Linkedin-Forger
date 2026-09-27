@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+.linkedin-mcp/
+linkedin-session/
+playwright-report/
+test-results/
+social/
